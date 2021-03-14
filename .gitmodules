@@ -1,3 +1,6 @@
 [submodule "portfolio_v1"]
 	path = portfolio_v1
 	url = git@github.com:Simon994/Portfolio_old.git
+[submodule "portfolio_v2"]
+	path = portfolio_v2
+	url = git@github.com:Simon994/portfolio.git
